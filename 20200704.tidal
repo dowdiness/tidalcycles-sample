@@ -1,0 +1,4 @@
+d1 $ sound "bd sn"
+d2 $ gain "1 0.8 0.5 0.7" # sound "speakspell:0 stab:2"
+
+hush
